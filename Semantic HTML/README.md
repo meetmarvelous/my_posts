@@ -79,6 +79,8 @@ For example, using heading tags like `<h1>` and `<h2>` allows screen readers to 
 
 ![SEO](./images/seo.jpg)
 
+![SEO](./images/seosmall.jpg)
+
 Search engines, such as Google, rely on semantic HTML to better understand the content of web pages. By using semantic tags, developers can provide search engine crawlers with more accurate information about the content, helping to improve the page's ranking on search engine results pages (SERPs) for relevant keywords.
 
 In essence, pages with properly implemented semantic HTML have a competitive advantage in SEO over those that do not.
