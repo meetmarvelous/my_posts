@@ -1,4 +1,5 @@
-# Enhancing Web Development with Semantic HTML
+# Mastering Semantic HTML: A Guide to Improve Web Development and SEO
+## Enhancing Web Development with Semantic HTML
 
 ![Semantic HTML](./images/semantic.png)
 
@@ -77,13 +78,11 @@ For example, using heading tags like `<h1>` and `<h2>` allows screen readers to 
 
 ## 6. Semantic HTML and SEO
 
-![SEO](./images/seo.jpg)
-
-![SEO](./images/seosmall.jpg)
-
 Search engines, such as Google, rely on semantic HTML to better understand the content of web pages. By using semantic tags, developers can provide search engine crawlers with more accurate information about the content, helping to improve the page's ranking on search engine results pages (SERPs) for relevant keywords.
 
 In essence, pages with properly implemented semantic HTML have a competitive advantage in SEO over those that do not.
+
+![SEO](./images/seo.jpg)
 
 ## 7. Semantic HTML Best Practices
 
@@ -131,6 +130,7 @@ Here are some examples of how to implement semantic HTML in your web pages:
     </footer>
 ```
 
+![Display](./images/nonsemantic.png)
 ### 8.2 Incorrect usage of semantic elements
 
 ```html
@@ -151,3 +151,15 @@ The introduction of HTML5 brought a significant improvement to semantic HTML. Ma
 ## 10. Conclusion
 
 Semantic HTML is an invaluable tool for creating well-structured, accessible, and SEO-friendly web pages. By using the appropriate semantic tags and following best practices, developers can create web pages that are easy to understand and maintain, resulting in a better user experience and improved search engine rankings. As you continue to develop your skills in web development, make sure to incorporate semantic HTML into your toolkit to ensure the success of your projects.
+
+*Thank you for reading!*
+
+---
+
+Writing has always been my passion and it gives me pleasure to help and inspire people.
+
+I hope you've found this post helpful. If you have any questions or need guidance, feel free to reach out!
+
+Connect with me on [**LinkedIn**](https://www.linkedin.com/in/meetmarvelous), [**Facebook**](https://www.facebook.com/meetmarvelous), [**GitHub**](https://github.com/meetmarvelous) ,via [**this bio link!**](https://bio.link/meetmarvelous)
+
+Visit my Blog for more articles like this.

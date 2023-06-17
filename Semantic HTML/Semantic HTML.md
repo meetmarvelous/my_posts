@@ -1,4 +1,5 @@
-# Enhancing Web Development with Semantic HTML
+# Mastering Semantic HTML: A Guide to Improve Web Development and SEO
+## Enhancing Web Development with Semantic HTML
 
 ![Semantic HTML](https://img.freepik.com/premium-vector/semantic-html-by-using-html-elements-structure-your-content-based-each-element-s-meaning_518018-1629.jpg?w=2000)
 
@@ -83,6 +84,8 @@ Search engines, such as Google, rely on semantic HTML to better understand the c
 
 In essence, pages with properly implemented semantic HTML have a competitive advantage in SEO over those that do not.
 
+![SEO](./images/seo.jpg)
+
 ## 7. Semantic HTML Best Practices
 
 To make the most of semantic HTML, developers should follow these best practices:
@@ -129,6 +132,7 @@ Here are some examples of how to implement semantic HTML in your web pages:
     </footer>
 ```
 
+![Display](./images/nonsemantic.png)
 ### 8.2 Incorrect usage of semantic elements
 
 ```html
@@ -142,8 +146,22 @@ Here are some examples of how to implement semantic HTML in your web pages:
 
 ## 9. The Evolution of Semantic HTML: HTML4 vs. HTML5
 
+![HTML 4 VS HTML 5](./images/html4to5.png)
+
 The introduction of HTML5 brought a significant improvement to semantic HTML. Many new elements were introduced, such as `<header>`, `<nav>`, `<article>`, and `<section>`, which provide clearer definitions of the content and its purpose on the web page. These new elements make it even easier for both developers and browsers to understand the structure and meaning of the content.
 
 ## 10. Conclusion
 
 Semantic HTML is an invaluable tool for creating well-structured, accessible, and SEO-friendly web pages. By using the appropriate semantic tags and following best practices, developers can create web pages that are easy to understand and maintain, resulting in a better user experience and improved search engine rankings. As you continue to develop your skills in web development, make sure to incorporate semantic HTML into your toolkit to ensure the success of your projects.
+
+*Thank you for reading!*
+
+---
+
+Writing has always been my passion and it gives me pleasure to help and inspire people.
+
+I hope you've found this post helpful. If you have any questions or need guidance, feel free to reach out!
+
+Connect with me on [**LinkedIn**](https://www.linkedin.com/in/meetmarvelous), [**Facebook**](https://www.facebook.com/meetmarvelous), [**GitHub**](https://github.com/meetmarvelous) ,via [**this bio link!**](https://bio.link/meetmarvelous)
+
+Visit my Blog for more articles like this.
