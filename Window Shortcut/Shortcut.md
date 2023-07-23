@@ -109,6 +109,8 @@ In the fast-paced world of computing, efficiency is the key to productivity. Win
 
 *Please note that some shortcuts may be specific to certain Windows versions or applications.*
 
+![White Keyboard](,/../White%20Keyboard.jpg)
+
 We'll explore the most valuable and relevant Windows shortcuts listed above, along with practical tips on how to integrate them seamlessly into your daily workflow.
 
 ## 1. Copy, Cut, and Paste (CTRL+C, CTRL+X, CTRL+V)
@@ -154,6 +156,8 @@ The "WIN+I" shortcut opens Windows Settings, giving you quick access to various 
 For a convenient menu of essential system tools, use the "WIN+X" shortcut. This shortcut opens the Quick Link menu, providing quick access to commonly used tools like Task Manager, Command Prompt, Device Manager, and more.
 
 When it's time to step away from your computer, press "WIN+L" to lock your screen, securing your privacy and keeping your work safe.
+
+![A Beautiful Keyboard](./Keyboard.jpg)
 
 ## Conclusion
 
