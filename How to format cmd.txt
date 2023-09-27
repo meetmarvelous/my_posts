@@ -1,0 +1,54 @@
+How to Format USB Flash Drive from Command Prompt
+
+Why Do You Format USB Flash Drive
+The storage devices that are widely used nowadays are typically HDDs and SSDs, which are always set up on a PC/Mac to install the operating system and store data files.
+Meanwhile, there are many other types of prevailing devices with more flexible features for different purposes. Yes, they are removable storage devices such as USB flash drive.
+The truth is that no matter what drive you're using, it must have a valid file system so that Windows can recognize it and put it to use.
+What's more, it's inevitable to develop bad sectors or corruption issues on a specified flash drive after a long-time use.
+By formatting, you can easily fix any USB flash drive, pen drive or memory stick that is write protected, virus infected, corrupted, damaged, unreadable, unrecognized by PC and Mobile.
+So here comes the question, how to format a USB flash drive? This page mainly illustrates how to format a USB flash drive using Windows inbuilt Command Prompt, and the following is the detailed guide you should strictly follow.
+How to Format USB Flash Drive from Command Prompt
+For your information, any form of disk formatting will completely erase data, so backup as many as important files before the start.
+Altogether, you'll walk through the whole formatting process in eight steps, and the time spent will depend on the USB flash drive capacity and used space on it. (The following steps are performed on Windows 10 PC.)
+
+Step 1: Type cmd in the search box, then you can get the best match called Command Prompt. Right-click on it and choose "Run as administrator".
+
+Step 2: On the Command Prompt window, type diskpart and press "Enter".
+
+type diskpart to format usb flash drive using cmd
+
+>> diskpart
+
+Step 3: Type list disk and press "Enter". According to the list disk information, check which disk is your USB flash drive. For example, disk 2.
+
+>> list disk
+
+type list disk to format usb flash drive using cmd
+
+Step 4: Now type select disk 2 and press "Enter".
+
+>> select disk 2
+
+type select disk 2 to format usb flash drive using cmd
+
+Step 5: Type clean. Wait some time for disk erasing.
+
+>> clean
+
+type clean to format usb flash drive using cmd
+
+Step 6: Type create partition primary and press "Enter".
+
+>> create partition primary
+
+type create partition primary to format usb flash drive using cmd
+
+Step 7: After diskpart successfully created the specified partition, type format fs=ntfs and press "Enter". If you prefer other file system formats, change the command ntfs to the desired one such as fat32, exfat, etc.
+
+>> format fs=ntfs
+
+type format fs=ntfs to format usb flash drive using cmd
+
+Step 8: Type assign to create a drive letter to the flash drive.
+
+>> assign
